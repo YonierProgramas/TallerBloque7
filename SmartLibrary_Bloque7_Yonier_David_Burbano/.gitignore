@@ -1,0 +1,19 @@
+# Archivos generados por Maven y Java
+/target/
+*.class
+
+# Configuración local de editores
+.idea/
+*.iml
+.vscode/
+
+# Archivos temporales y del sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Configuración local sensible
+.env
+.env.*
+!.env.example
